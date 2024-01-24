@@ -1,3 +1,6 @@
+from ast import List
+
+
 class Solution:
     def maxLength(self, arr: List[str]) -> int:
         ans = 0
