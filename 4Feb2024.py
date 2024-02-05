@@ -1,3 +1,6 @@
+from math import inf
+
+
 class Solution:
     def idx(self,s : str,i: int) :
         if(ord(s[i])>=ord('a')) :
